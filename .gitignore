@@ -1,0 +1,12 @@
+node_modules/
+venv/
+.env
+__pycache__/
+*.pyc
+*.model
+*.bin
+*.pt
+*.pth
+*.gguf
+*.log
+data/
